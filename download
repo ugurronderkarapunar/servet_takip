@@ -1,0 +1,9 @@
+# Kişisel finansal verini GitHub'a yüklememek için:
+servet.db
+*.db
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
